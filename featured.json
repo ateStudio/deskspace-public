@@ -1,4 +1,33 @@
 {
-  "published": "2026-08-30T00:00:00Z",
-  "playlists": []
+  "intro": {
+    "headline": "Some Playlist to Work With",
+    "note": "Enjoy :)"
+  },
+  "playlists": [
+    {
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84a613bbe0fae81e7dc5c70cdf",
+      "id": "2zBIQm5qtiSJVp5ggQusSv",
+      "name": "Airporter",
+      "note": "",
+      "placement": "home",
+      "tracks": 0
+    },
+    {
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84e43f52fc5be0c1d5143010cc",
+      "id": "0hKgw4eKCsV7lWqELEYrUJ",
+      "name": "Dream police",
+      "note": "",
+      "placement": "home",
+      "tracks": 0
+    },
+    {
+      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846e30f63d136f144ae498277b",
+      "id": "2Em7nAz0GGWXSuTvC2cs6Q",
+      "name": "777",
+      "note": "",
+      "placement": "home",
+      "tracks": 0
+    }
+  ],
+  "published": "2026-08-30T09:10:14.303Z"
 }
