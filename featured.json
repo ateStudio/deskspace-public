@@ -1,6 +1,6 @@
 {
   "intro": {
-    "headline": "Some Playlist to Work With",
+    "headline": "Some Playlists to Work With",
     "note": "Enjoy :)"
   },
   "playlists": [
@@ -13,7 +13,7 @@
       "tracks": 0
     },
     {
-      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84e43f52fc5be0c1d5143010cc",
+      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84e43f52fc5be0c1d5143010cc",
       "id": "0hKgw4eKCsV7lWqELEYrUJ",
       "name": "Dream police",
       "note": "",
@@ -21,7 +21,7 @@
       "tracks": 0
     },
     {
-      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846e30f63d136f144ae498277b",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846e30f63d136f144ae498277b",
       "id": "2Em7nAz0GGWXSuTvC2cs6Q",
       "name": "777",
       "note": "",
@@ -29,5 +29,5 @@
       "tracks": 0
     }
   ],
-  "published": "2026-08-30T09:10:14.303Z"
+  "published": "2026-08-30T10:25:32.649Z"
 }
