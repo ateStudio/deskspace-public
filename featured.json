@@ -5,7 +5,7 @@
   },
   "playlists": [
     {
-      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84a613bbe0fae81e7dc5c70cdf",
+      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84a613bbe0fae81e7dc5c70cdf",
       "id": "2zBIQm5qtiSJVp5ggQusSv",
       "name": "Airporter",
       "note": "",
@@ -21,13 +21,21 @@
       "tracks": 0
     },
     {
-      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846e30f63d136f144ae498277b",
+      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846e30f63d136f144ae498277b",
       "id": "2Em7nAz0GGWXSuTvC2cs6Q",
       "name": "777",
       "note": "",
       "placement": "home",
       "tracks": 0
+    },
+    {
+      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da841baaa072346551dfe39ad06a",
+      "id": "0WnqOR6IIeu4U6M7JfS2m9",
+      "name": "E Y",
+      "note": "",
+      "placement": "home",
+      "tracks": 0
     }
   ],
-  "published": "2026-08-30T10:25:32.649Z"
+  "published": "2026-08-30T23:10:29.665Z"
 }
