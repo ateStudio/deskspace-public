@@ -1,4 +1,9 @@
 {
+  "author": {
+    "framer": "https://www.framer.com/@ate/",
+    "site": "atestudio.de",
+    "x": ""
+  },
   "intro": {
     "headline": "Some Playlists to Work With",
     "note": "Enjoy :)"
@@ -29,7 +34,7 @@
       "tracks": 0
     },
     {
-      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da841baaa072346551dfe39ad06a",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841baaa072346551dfe39ad06a",
       "id": "0WnqOR6IIeu4U6M7JfS2m9",
       "name": "E Y",
       "note": "",
@@ -37,5 +42,5 @@
       "tracks": 0
     }
   ],
-  "published": "2026-08-30T23:10:29.665Z"
+  "published": "2026-09-05T06:11:21.562Z"
 }
